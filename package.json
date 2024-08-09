@@ -35,7 +35,7 @@
     "url": "https://github.com/LearnBoost/knox/issues"
   },
   "dependencies": {
-    "mime": "*",
+    "mime": "^3.0.0",
     "xml2js": "0.2.x",
     "debug": "2.6.9",
     "stream-counter": "~0.1.0"
